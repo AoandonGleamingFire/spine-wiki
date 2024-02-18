@@ -1,0 +1,21 @@
+{
+  "skeleton": "Badlands_effect _B.skel",
+  "atlases": [
+    {
+      "atlas": "Badlands.atlas",
+      "tex_names": [
+        "Badlands"
+      ],
+      "textures": [
+        "Badlands.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
