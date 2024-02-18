@@ -1,0 +1,21 @@
+{
+  "skeleton": "40350_skin_Meteor03.skel",
+  "atlases": [
+    {
+      "atlas": "40350_skin_Meteor03.atlas",
+      "tex_names": [
+        "40350_skin_Meteor03"
+      ],
+      "textures": [
+        "40350_skin_Meteor03.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

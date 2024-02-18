@@ -1,0 +1,21 @@
+{
+  "skeleton": "30040_break_Kenai_effectF.skel",
+  "atlases": [
+    {
+      "atlas": "30040_break_Kenai.atlas",
+      "tex_names": [
+        "30040_break_Kenai"
+      ],
+      "textures": [
+        "30040_break_Kenai.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

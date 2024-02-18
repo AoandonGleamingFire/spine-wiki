@@ -1,0 +1,21 @@
+{
+  "skeleton": "30200_skin_Direwolf03.skel",
+  "atlases": [
+    {
+      "atlas": "30200_skin_Direwolf03.atlas",
+      "tex_names": [
+        "30200_skin_Direwolf03"
+      ],
+      "textures": [
+        "30200_skin_Direwolf03.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "skeleton": "10030_skin_Wolframite03.skel",
+  "atlases": [
+    {
+      "atlas": "10030_skin_Wolframite03.atlas",
+      "tex_names": [
+        "10030_skin_Wolframite03"
+      ],
+      "textures": [
+        "10030_skin_Wolframite03.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

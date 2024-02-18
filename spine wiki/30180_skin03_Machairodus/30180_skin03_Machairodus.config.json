@@ -1,0 +1,21 @@
+{
+  "skeleton": "30180_skin03_Machairodus.skel",
+  "atlases": [
+    {
+      "atlas": "30180_skin03_Machairodus.atlas",
+      "tex_names": [
+        "30180_skin03_Machairodus"
+      ],
+      "textures": [
+        "30180_skin03_Machairodus.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

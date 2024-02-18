@@ -1,0 +1,21 @@
+{
+  "skeleton": "20240_break_Uillean_character.skel",
+  "atlases": [
+    {
+      "atlas": "20240_break_Uillean.atlas",
+      "tex_names": [
+        "20240_break_Uillean"
+      ],
+      "textures": [
+        "20240_break_Uillean.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

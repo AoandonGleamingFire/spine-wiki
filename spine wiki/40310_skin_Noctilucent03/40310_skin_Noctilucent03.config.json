@@ -1,0 +1,21 @@
+{
+  "skeleton": "40310_skin_Noctilucent03.skel",
+  "atlases": [
+    {
+      "atlas": "40310_skin_Noctilucent03.atlas",
+      "tex_names": [
+        "40310_skin_Noctilucent03"
+      ],
+      "textures": [
+        "40310_skin_Noctilucent03.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

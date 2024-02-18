@@ -1,0 +1,21 @@
+{
+  "skeleton": "10250_break_Sphalerite_effectB.skel",
+  "atlases": [
+    {
+      "atlas": "10250_break_Sphalerite.atlas",
+      "tex_names": [
+        "10250_break_Sphalerite"
+      ],
+      "textures": [
+        "10250_break_Sphalerite.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

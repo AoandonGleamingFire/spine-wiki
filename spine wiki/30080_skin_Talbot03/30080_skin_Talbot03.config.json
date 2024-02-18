@@ -1,0 +1,21 @@
+{
+  "skeleton": "30080_skin_Talbot03.skel",
+  "atlases": [
+    {
+      "atlas": "30080_skin_Talbot03.atlas",
+      "tex_names": [
+        "30080_skin_Talbot03"
+      ],
+      "textures": [
+        "30080_skin_Talbot03.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
