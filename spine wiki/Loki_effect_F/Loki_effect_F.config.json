@@ -1,0 +1,21 @@
+{
+  "skeleton": "Loki_effect_F.skel",
+  "atlases": [
+    {
+      "atlas": "Loki.atlas",
+      "tex_names": [
+        "Loki"
+      ],
+      "textures": [
+        "Loki.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
