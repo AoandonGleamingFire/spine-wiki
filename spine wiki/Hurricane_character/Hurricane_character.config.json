@@ -1,0 +1,21 @@
+{
+  "skeleton": "Hurricane_character.skel",
+  "atlases": [
+    {
+      "atlas": "Hurricane.atlas",
+      "tex_names": [
+        "Hurricane"
+      ],
+      "textures": [
+        "Hurricane.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

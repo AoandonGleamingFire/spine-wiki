@@ -1,0 +1,21 @@
+{
+  "skeleton": "Hades_Death_effectF.skel",
+  "atlases": [
+    {
+      "atlas": "Hades_Death.atlas",
+      "tex_names": [
+        "Hades_Death"
+      ],
+      "textures": [
+        "Hades_Death.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
