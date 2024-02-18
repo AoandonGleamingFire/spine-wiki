@@ -1,0 +1,21 @@
+{
+  "skeleton": "CG02.skel",
+  "atlases": [
+    {
+      "atlas": "CG02.atlas",
+      "tex_names": [
+        "CG02"
+      ],
+      "textures": [
+        "CG02.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

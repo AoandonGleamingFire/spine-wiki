@@ -1,0 +1,21 @@
+{
+  "skeleton": "CG05_ShimmeringFeast.skel",
+  "atlases": [
+    {
+      "atlas": "CG05_ShimmeringFeast.atlas",
+      "tex_names": [
+        "CG05_ShimmeringFeast"
+      ],
+      "textures": [
+        "CG05_ShimmeringFeast.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

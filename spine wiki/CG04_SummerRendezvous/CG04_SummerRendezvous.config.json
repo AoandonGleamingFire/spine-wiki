@@ -1,0 +1,21 @@
+{
+  "skeleton": "CG04_SummerRendezvous.skel",
+  "atlases": [
+    {
+      "atlas": "CG04_SummerRendezvous.atlas",
+      "tex_names": [
+        "CG04_SummerRendezvous"
+      ],
+      "textures": [
+        "CG04_SummerRendezvous.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

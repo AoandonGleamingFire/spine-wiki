@@ -1,0 +1,21 @@
+{
+  "skeleton": "CG_seashore.skel",
+  "atlases": [
+    {
+      "atlas": "CG_seashore.atlas",
+      "tex_names": [
+        "CG_seashore"
+      ],
+      "textures": [
+        "CG_seashore.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

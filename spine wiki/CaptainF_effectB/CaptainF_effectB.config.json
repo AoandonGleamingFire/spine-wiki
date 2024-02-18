@@ -1,0 +1,21 @@
+{
+  "skeleton": "CaptainF_effectB.skel",
+  "atlases": [
+    {
+      "atlas": "CaptainF.atlas",
+      "tex_names": [
+        "CaptainF"
+      ],
+      "textures": [
+        "CaptainF.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

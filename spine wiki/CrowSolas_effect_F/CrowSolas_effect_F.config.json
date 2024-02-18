@@ -1,0 +1,21 @@
+{
+  "skeleton": "CrowSolas_effect_F.skel",
+  "atlases": [
+    {
+      "atlas": "CrowSolas.atlas",
+      "tex_names": [
+        "CrowSolas"
+      ],
+      "textures": [
+        "CrowSolas.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

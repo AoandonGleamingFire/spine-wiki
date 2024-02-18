@@ -1,0 +1,21 @@
+{
+  "skeleton": "CG06_TryToMoveForward_character.skel",
+  "atlases": [
+    {
+      "atlas": "CG06_TryToMoveForward_character.atlas",
+      "tex_names": [
+        "CG06_TryToMoveForward_character"
+      ],
+      "textures": [
+        "CG06_TryToMoveForward_character.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
