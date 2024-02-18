@@ -1,0 +1,21 @@
+{
+  "skeleton": "SilverFeather_effect_B.skel",
+  "atlases": [
+    {
+      "atlas": "SilverFeather_charac.atlas",
+      "tex_names": [
+        "SilverFeather_charac"
+      ],
+      "textures": [
+        "SilverFeather_charac.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
