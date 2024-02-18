@@ -1,0 +1,21 @@
+{
+  "skeleton": "Meteor_character.skel",
+  "atlases": [
+    {
+      "atlas": "Meteor.atlas",
+      "tex_names": [
+        "Meteor"
+      ],
+      "textures": [
+        "Meteor.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
