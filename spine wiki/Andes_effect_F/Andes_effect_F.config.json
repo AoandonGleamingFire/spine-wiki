@@ -1,0 +1,21 @@
+{
+  "skeleton": "Andes_effect_F.skel",
+  "atlases": [
+    {
+      "atlas": "Andes.atlas",
+      "tex_names": [
+        "Andes"
+      ],
+      "textures": [
+        "Andes.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

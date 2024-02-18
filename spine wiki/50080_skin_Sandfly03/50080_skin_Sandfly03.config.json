@@ -1,0 +1,21 @@
+{
+  "skeleton": "50080_skin_Sandfly03.skel",
+  "atlases": [
+    {
+      "atlas": "50080_skin_Sandfly03.atlas",
+      "tex_names": [
+        "50080_skin_Sandfly03"
+      ],
+      "textures": [
+        "50080_skin_Sandfly03.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

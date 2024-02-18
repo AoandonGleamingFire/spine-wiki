@@ -1,0 +1,21 @@
+{
+  "skeleton": "60110_skin_Burtgang03.skel",
+  "atlases": [
+    {
+      "atlas": "60110_skin_Burtgang03.atlas",
+      "tex_names": [
+        "60110_skin_Burtgang03"
+      ],
+      "textures": [
+        "60110_skin_Burtgang03.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

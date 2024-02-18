@@ -1,0 +1,21 @@
+{
+  "skeleton": "60280_break_Clarent_character.skel",
+  "atlases": [
+    {
+      "atlas": "60280_break_Clarent.atlas",
+      "tex_names": [
+        "60280_break_Clarent"
+      ],
+      "textures": [
+        "60280_break_Clarent.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

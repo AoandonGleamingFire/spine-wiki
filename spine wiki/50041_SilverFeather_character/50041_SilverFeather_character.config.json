@@ -1,0 +1,21 @@
+{
+  "skeleton": "50041_SilverFeather_character.skel",
+  "atlases": [
+    {
+      "atlas": "50041_SilverFeather.atlas",
+      "tex_names": [
+        "50041_SilverFeather"
+      ],
+      "textures": [
+        "50041_SilverFeather.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
