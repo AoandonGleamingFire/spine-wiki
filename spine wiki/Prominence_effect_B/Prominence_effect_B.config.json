@@ -1,0 +1,21 @@
+{
+  "skeleton": "Prominence_effect_B.skel",
+  "atlases": [
+    {
+      "atlas": "Prominence.atlas",
+      "tex_names": [
+        "Prominence"
+      ],
+      "textures": [
+        "Prominence.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}

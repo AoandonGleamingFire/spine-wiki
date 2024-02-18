@@ -1,0 +1,21 @@
+{
+  "skeleton": "Queen_T_efectB.skel",
+  "atlases": [
+    {
+      "atlas": "Queen_T.atlas",
+      "tex_names": [
+        "Queen_T"
+      ],
+      "textures": [
+        "Queen_T.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
