@@ -1,0 +1,21 @@
+{
+  "skeleton": "Wolframite_effectB.skel",
+  "atlases": [
+    {
+      "atlas": "Wolframite.atlas",
+      "tex_names": [
+        "Wolframite"
+      ],
+      "textures": [
+        "Wolframite.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
