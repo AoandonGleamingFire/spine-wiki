@@ -1,0 +1,21 @@
+{
+  "skeleton": "Desert_effectB.skel",
+  "atlases": [
+    {
+      "atlas": "Desert.atlas",
+      "tex_names": [
+        "Desert"
+      ],
+      "textures": [
+        "Desert.png"
+      ]
+    }
+  ],
+  "options": {
+    "scale_factor": 1.0,
+    "aniso_level": 1,
+    "position_x": 0.0,
+    "position_y": 0.0,
+    "edge_padding": false
+  }
+}
